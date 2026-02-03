@@ -1,9 +1,9 @@
 # Binary Search
 
 ## Status
-In Progress (Day 1)
+In Progress (Day 2)
 
-## What I Covered Today
+## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
 - Linear vs binary search
 - Iterative binary search
@@ -19,10 +19,6 @@ In Progress (Day 1)
 ## Notes
 Handwritten notes for Day 1 are uploaded as PDF.
 
-## Next Plan
-- cover more concepts like binary search on answers
-- practice problems based on concepts
-  
 ## Day 2 Progress
 - Number of rotations in rotated sorted array
 - Finding minimum element and its index
@@ -30,3 +26,7 @@ Handwritten notes for Day 1 are uploaded as PDF.
 - Peak element problem
 - Binary search on answers (square root of a number)
 - Focused on dry runs, conditions, and edge cases
+
+## Next Plan
+- Practice coding problems for above concepts
+- Write clean implementations with edge case handling
