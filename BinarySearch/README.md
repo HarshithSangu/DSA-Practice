@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Status
-In Progress (Day 2)
+In Progress (Day 3)
 
 ## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
@@ -27,6 +27,11 @@ Handwritten notes for Day 1 are uploaded as PDF.
 - Binary search on answers (square root of a number)
 - Focused on dry runs, conditions, and edge cases
 
+## Day 3 Progress 
+-understood nth root of a number using binary search
+-done based on binary search on answers 
+-here one overflow happens when you calculate power of mid with given n then it overflows
+-understood koko eating bananas this is also bs on answers like we need min no of bananas per/hr
 ## Next Plan
 - Practice coding problems for above concepts
 - Write clean implementations with edge case handling
