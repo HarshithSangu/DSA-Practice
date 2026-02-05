@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Status
-In Progress (Day 3)
+In Progress (Day 4)
 
 ## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
@@ -32,6 +32,13 @@ Handwritten notes for Day 1 are uploaded as PDF.
 -done based on binary search on answers 
 -here one overflow happens when you calculate power of mid with given n then it overflows
 -understood koko eating bananas this is also bs on answers like we need min no of bananas per/hr
+
+## Day 4 Progress
+-understood some more concepts on binary search on answers 
+-for koko eating banans within required time we are calculating time 1 banana/hr and 2 banana/hr and taking only if it is within time 
+-similarly same pattern for least capacity to ship all packages within d days like we take capacities and for each capacity we calculate no of days and if it is within d days then among them we take minimum capcity
+-minimum no of days to make m bouqets and in each bouqet k flowers they must be adjacent only
+-minimum small divisor less than the threshold
 ## Next Plan
 - Practice coding problems for above concepts
 - Write clean implementations with edge case handling
