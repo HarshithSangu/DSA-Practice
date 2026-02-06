@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Status
-In Progress (Day 4)
+In Progress (Day 5)
 
 ## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
@@ -39,6 +39,10 @@ Handwritten notes for Day 1 are uploaded as PDF.
 -similarly same pattern for least capacity to ship all packages within d days like we take capacities and for each capacity we calculate no of days and if it is within d days then among them we take minimum capcity
 -minimum no of days to make m bouqets and in each bouqet k flowers they must be adjacent only
 -minimum small divisor less than the threshold
+
+## Day5 Progress
+-understood kth missing positive integer here we are not using binary search on answers and to find how many integers are missed before that element we use this formula like element-(index+1) 
+-tomorrow i will learn new type patterns like max of min
 ## Next Plan
 - Practice coding problems for above concepts
 - Write clean implementations with edge case handling
