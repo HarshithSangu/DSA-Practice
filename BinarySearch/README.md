@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Status
-In Progress (Day 5)
+In Progress (Day 6)
 
 ## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
@@ -43,6 +43,10 @@ Handwritten notes for Day 1 are uploaded as PDF.
 ## Day5 Progress
 -understood kth missing positive integer here we are not using binary search on answers and to find how many integers are missed before that element we use this formula like element-(index+1) 
 -tomorrow i will learn new type patterns like max of min
+
+## Day6 Progress
+-understood one more type pattern in binary search max of min
+-understood aggressive cows problem
 ## Next Plan
 - Practice coding problems for above concepts
 - Write clean implementations with edge case handling
