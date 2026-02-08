@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Status
-In Progress (Day 6)
+In Progress (Day 7)
 
 ## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
@@ -47,6 +47,9 @@ Handwritten notes for Day 1 are uploaded as PDF.
 ## Day6 Progress
 -understood one more type pattern in binary search max of min
 -understood aggressive cows problem
+## Day7 Progress
+-Today i have learned some patterns like this are same books allocation and painter partition and slipt subarray large sum and min capacity to ship packages within d days
+-for this concepts the condition are like each occupies only one particular thing and each need atleast one and they must be consecutive/contigous just with these conditions we can say that these types of problems belongs to same pattern
 ## Next Plan
 - Practice coding problems for above concepts
 - Write clean implementations with edge case handling
