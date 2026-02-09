@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Status
-In Progress (Day 7)
+In Progress (Day 8)
 
 ## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
@@ -50,6 +50,8 @@ Handwritten notes for Day 1 are uploaded as PDF.
 ## Day7 Progress
 -Today i have learned some patterns like this are same books allocation and painter partition and slipt subarray large sum and min capacity to ship packages within d days
 -for this concepts the condition are like each occupies only one particular thing and each need atleast one and they must be consecutive/contigous just with these conditions we can say that these types of problems belongs to same pattern
+## Day 8 Progress
+-understood how to find median of two sorted arrays
 ## Next Plan
 - Practice coding problems for above concepts
 - Write clean implementations with edge case handling
