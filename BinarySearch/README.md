@@ -1,7 +1,7 @@
 # Binary Search
 
 ## Status
-In Progress (Day 8)
+In Progress (Day 9)
 
 ## Day 1 – What I Covered
 - Binary search intuition (dictionary example)
@@ -52,6 +52,12 @@ Handwritten notes for Day 1 are uploaded as PDF.
 -for this concepts the condition are like each occupies only one particular thing and each need atleast one and they must be consecutive/contigous just with these conditions we can say that these types of problems belongs to same pattern
 ## Day 8 Progress
 -understood how to find median of two sorted arrays
+-kth element in two sorted arrays
+## Day 9 Progress
+-today understood binar search problems on 2d array 
+-like find the row which has max no of 1s
+-find peak element in 2d array
+-search an element in 2d array and return its coordinates
+-find median in 2d array
 ## Next Plan
 - Practice coding problems for above concepts
-- Write clean implementations with edge case handling
